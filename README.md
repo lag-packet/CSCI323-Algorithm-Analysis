@@ -43,4 +43,13 @@ These are the assignments from CSCI 323 Algorithms Design &amp; Analysis
 ## Estimiation and solving reccurences
 
 ## Hashing
- * 
+ * Chaining
+ * Probing
+
+## Graph shortest path algorithms
+ * dijkstra
+ * bellman ford
+ * floyd 
+
+## Binpacking
+ * np 
